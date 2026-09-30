@@ -8,12 +8,12 @@
 #### Sumber dataset : keggle
 #### Link dataset : https://www.kaggle.com/datasets/mobeenfatimah/cityflow-smart-urban-mobility-and-traffic-iot/data
 #### Lisensi : CC BY-NC-SA 4.0
-#### 3 Temuan Utama :
+## 3 Temuan Utama :
 1. terdapat 204000 baris
 2. terdapat 47 variabel bebas
 3. datanya diambil selama 3 bulan
 ## Cara membuka notebook :
-1. buka apalikasi anaconda navigator
+1. buka aplikasi anaconda navigator
 2. cari jupyter notebook
 3. klik tombol launch
 4. pilih file yang ingin dibuka
